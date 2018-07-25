@@ -1,7 +1,6 @@
-
 - name: StandardName
   description: > #ignore linebreaks below
-    The description of your awesome standard will be displayed in the about section of your site.
-    Here you can enter what you like as long as it makes sense as an about section for the Standard
-    for which this site is built for.
+    南京朗伦兹医药科技有限公司拥有一支具有丰富经验的团队,成员全部具有
+    美国名校生物信息学等相关领域博士学位和多年从业经验,并在国际著名期
+    刊上发表多篇论文.我们愿和您并肩工作,助您的科研和临床项目体腾飞!
   empty: ""
